@@ -101,6 +101,7 @@ int main(int argc, char** argv){
 	*/
 
 	/*
+	SENSOR_COLOR
 	0:  1920 x 1080, 30 fps, 200 format
 	1:  1920 x 1080, 30 fps, 203 format
 	2:  1920 x 1080, 30 fps, 205 format
@@ -197,6 +198,10 @@ int main(int argc, char** argv){
 	93:  320 x  180,  6 fps, 200 format
 	94:  320 x  180,  6 fps, 203 format
 	95:  320 x  180,  6 fps, 205 format
+
+	PIXEL_FORMAT_RGB888 = 200,
+	PIXEL_FORMAT_GRAY16 = 203,
+	PIXEL_FORMAT_YUYV = 205,
 	*/
     device.close();
 	
