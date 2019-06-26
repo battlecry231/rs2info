@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/phil/Downloads/devel/openni_tryhard/build",
-  "command": "/usr/bin/c++   -I/usr/include/openni2  -g   -o CMakeFiles/main.dir/main.cpp.o -c /home/phil/Downloads/devel/openni_tryhard/main.cpp",
-  "file": "/home/phil/Downloads/devel/openni_tryhard/main.cpp"
-}
-]

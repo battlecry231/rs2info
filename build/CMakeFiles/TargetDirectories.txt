@@ -1,3 +1,0 @@
-/home/phil/Downloads/devel/openni_tryhard/build/CMakeFiles/rebuild_cache.dir
-/home/phil/Downloads/devel/openni_tryhard/build/CMakeFiles/main.dir
-/home/phil/Downloads/devel/openni_tryhard/build/CMakeFiles/edit_cache.dir
