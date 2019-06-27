@@ -6,7 +6,7 @@ int main(int argc, char* argv[]){
 	RecorderRS2 rec;
 
 	rec.setup();
-    rec.depth();
+	rec.depth();
 	rec.color();
 	//rec.both();
 	rec.startStream();
