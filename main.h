@@ -121,7 +121,10 @@ public:
                 printf("Recorder: Couldn't start color stream:\n%s\n", openni::OpenNI::getExtendedError());
                 _color.destroy();
             }
+        // Settings from Logger2
         _color.setMirroringEnabled(false);
+        _color.getCameraSettings()->setAutoExposureEnabled(false);
+        _color.getCameraSettings()->setAutoWhiteBalanceEnabled(false);
     }
 
     void startRecorder(const char* filepath){
